@@ -7,6 +7,7 @@ This repository is intentionally minimal:
 - it contains the public bootstrap installer
 - it contains release metadata and release assets
 - it does not contain the private source repository tree
+- release assets contain only the minimal runtime install files needed for archive installs
 
 ## Install
 
